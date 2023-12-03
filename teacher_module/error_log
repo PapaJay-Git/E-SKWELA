@@ -1,0 +1,17 @@
+[09-Jan-2022 03:06:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vlbadtbq/public_html/assets/db.php on line 12
+[09-Jan-2022 03:06:41 UTC] PHP Warning:  mysqli_stmt_init(): Couldn't fetch mysqli in /home/vlbadtbq/public_html/teacher_module/checker.php on line 7
+[09-Jan-2022 03:06:41 UTC] PHP Warning:  mysqli_stmt_prepare() expects parameter 1 to be mysqli_stmt, bool given in /home/vlbadtbq/public_html/teacher_module/checker.php on line 8
+[09-Jan-2022 03:06:41 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/vlbadtbq/public_html/teacher_module/checker.php on line 9
+[09-Jan-2022 03:06:41 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/vlbadtbq/public_html/teacher_module/checker.php on line 10
+[09-Jan-2022 03:06:41 UTC] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, bool given in /home/vlbadtbq/public_html/teacher_module/checker.php on line 11
+[09-Jan-2022 03:06:41 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/vlbadtbq/public_html/teacher_module/checker.php on line 12
+[09-Jan-2022 13:56:50 Asia/Manila] PHP Warning:  unlink(): No such file or directory in /home/vlbadtbq/public_html/teacher_module/assignment_update.php on line 113
+[09-Jan-2022 13:57:16 Asia/Manila] PHP Warning:  unlink(): No such file or directory in /home/vlbadtbq/public_html/teacher_module/assignment_update.php on line 113
+[09-Jan-2022 19:09:19 Asia/Manila] PHP Notice:  Undefined variable: sum1 in /home/vlbadtbq/public_html/teacher_module/assignment_student_answer.php on line 94
+[09-Jan-2022 19:09:28 Asia/Manila] PHP Notice:  Undefined variable: sum1 in /home/vlbadtbq/public_html/teacher_module/assignment_student_answer.php on line 94
+[11-Jan-2022 18:53:30 Asia/Manila] PHP Warning:  unlink(): No such file or directory in /home/vlbadtbq/public_html/teacher_module/assignment_update.php on line 113
+[11-Jan-2022 11:12:56 UTC] PHP Warning:  A non-numeric value encountered in /home/vlbadtbq/public_html/teacher_module/csv_grades.php on line 134
+[13-Jan-2022 22:57:07 Asia/Manila] PHP Notice:  Undefined variable: sum1 in /home/vlbadtbq/public_html/teacher_module/assignment_student_answer.php on line 94
+[13-Jan-2022 22:57:20 Asia/Manila] PHP Notice:  Undefined variable: sum1 in /home/vlbadtbq/public_html/teacher_module/assignment_student_answer.php on line 94
+[13-Jan-2022 22:58:46 Asia/Manila] PHP Notice:  Undefined variable: sum1 in /home/vlbadtbq/public_html/teacher_module/assignment_student_answer.php on line 94
+[13-Jan-2022 22:58:54 Asia/Manila] PHP Notice:  Undefined variable: sum1 in /home/vlbadtbq/public_html/teacher_module/assignment_student_answer.php on line 94

@@ -1,0 +1,49 @@
+[09-Jan-2022 03:05:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vlbadtbq/public_html/assets/db.php on line 12
+[09-Jan-2022 03:05:41 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vlbadtbq/public_html/website/index.php on line 4
+[09-Jan-2022 11:05:41 Asia/Manila] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vlbadtbq/public_html/website/index.php on line 174
+[09-Jan-2022 11:05:41 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function data_seek() on bool in /home/vlbadtbq/public_html/website/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/vlbadtbq/public_html/website/index.php on line 188
+[09-Jan-2022 03:05:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vlbadtbq/public_html/assets/db.php on line 12
+[09-Jan-2022 03:05:52 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vlbadtbq/public_html/website/index.php on line 4
+[09-Jan-2022 11:05:52 Asia/Manila] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vlbadtbq/public_html/website/index.php on line 174
+[09-Jan-2022 11:05:52 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function data_seek() on bool in /home/vlbadtbq/public_html/website/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/vlbadtbq/public_html/website/index.php on line 188
+[09-Jan-2022 03:06:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vlbadtbq/public_html/assets/db.php on line 12
+[09-Jan-2022 03:06:20 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vlbadtbq/public_html/website/index.php on line 4
+[09-Jan-2022 11:06:20 Asia/Manila] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vlbadtbq/public_html/website/index.php on line 174
+[09-Jan-2022 11:06:20 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function data_seek() on bool in /home/vlbadtbq/public_html/website/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/vlbadtbq/public_html/website/index.php on line 188
+[09-Jan-2022 03:06:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vlbadtbq/public_html/assets/db.php on line 12
+[09-Jan-2022 03:06:20 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vlbadtbq/public_html/website/index.php on line 4
+[09-Jan-2022 11:06:20 Asia/Manila] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vlbadtbq/public_html/website/index.php on line 174
+[09-Jan-2022 11:06:20 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function data_seek() on bool in /home/vlbadtbq/public_html/website/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/vlbadtbq/public_html/website/index.php on line 188
+[09-Jan-2022 03:06:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vlbadtbq/public_html/assets/db.php on line 12
+[09-Jan-2022 03:06:24 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vlbadtbq/public_html/website/index.php on line 4
+[09-Jan-2022 11:06:24 Asia/Manila] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vlbadtbq/public_html/website/index.php on line 174
+[09-Jan-2022 11:06:24 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function data_seek() on bool in /home/vlbadtbq/public_html/website/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/vlbadtbq/public_html/website/index.php on line 188
+[09-Jan-2022 03:06:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vlbadtbq/public_html/assets/db.php on line 12
+[09-Jan-2022 03:06:44 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vlbadtbq/public_html/website/index.php on line 4
+[09-Jan-2022 11:06:44 Asia/Manila] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vlbadtbq/public_html/website/index.php on line 174
+[09-Jan-2022 11:06:44 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function data_seek() on bool in /home/vlbadtbq/public_html/website/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/vlbadtbq/public_html/website/index.php on line 188
+[09-Jan-2022 03:06:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vlbadtbq/public_html/assets/db.php on line 12
+[09-Jan-2022 03:06:48 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vlbadtbq/public_html/website/index.php on line 4
+[09-Jan-2022 11:06:48 Asia/Manila] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vlbadtbq/public_html/website/index.php on line 174
+[09-Jan-2022 11:06:48 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function data_seek() on bool in /home/vlbadtbq/public_html/website/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/vlbadtbq/public_html/website/index.php on line 188
